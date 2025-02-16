@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viettq</h1>
+<h1 align="center">Hi 👋, I'm Viet</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 - Building projects using ReactJS and MaterialUI, integrating Firebase for notifications, and exploring Google APIs [VIETHOME](https://github.com/tqviett/viethome-react)
